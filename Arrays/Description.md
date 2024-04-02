@@ -7,3 +7,6 @@ The array module provides a class also called array, which can be used to create
 
 Arrays in Python are commonly used when you need to work with a fixed-size collection of elements of the same type, such as numerical data.</br>
 They are particularly useful in situations where performance is critical, as they can be more efficient than lists for certain operations, especially when dealing with large datasets.</br>
+
+![image](https://github.com/siddharthbabu/Data-structures-and-Algorithms/assets/43573386/1dce4751-5339-4a89-96a3-5796779d2889)
+
